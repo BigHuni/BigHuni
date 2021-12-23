@@ -1,21 +1,23 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+
+ ![ezgif com-gif-maker](https://user-images.githubusercontent.com/79084294/147286045-a1a16193-dd55-468c-9bd4-1109d7135f44.gif)
+ 
+ </div>
 
 ### <div align="center">'연은 순풍이 아니라 역풍에 가장 높이 난다 ✈'</div>  
+<br>
   
 
 - ✨ 웹 개발자 Daehun 입니다. ✨  
   
 
-- 🌱 멋쟁이사자처럼 프론트엔드스쿨 1기 과정 수료😚  
+- 🌱 멋쟁이사자처럼 프론트엔드스쿨 1기 과정 수료  
   
 
-- ⚡ 정보통신산업진흥원&포항테크노파크 AI 기본과정 이수  
+- ⚡ 정보통신산업진흥원&포항테크노파크 AI 기본과정 수료
   
 
-- ⛪ 2021 교내 캡스톤디자인 경진대회 입상  
+- ⛪ 2021 LINC+ 사업단 교내 캡스톤디자인 경진대회 입상  
   
 
 - 📝 2021 IPACT 국내학술대회 우수논문상 수상  
@@ -26,7 +28,8 @@
 
 <br/>  
 
-
+<div align="center">
+  
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -63,7 +66,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
 </div>
-
+  
 </td></tr></table>  
 
 <br/>  
@@ -84,12 +87,13 @@
   
 
 <br/>  
+  
+<br>
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=BigHuni&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigHuni&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=BigHuni&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Daehun Heo's Github Stats">
 
 <br/>  
 
@@ -110,3 +114,5 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+
