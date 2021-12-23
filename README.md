@@ -12,7 +12,7 @@
 - 🌱 멋쟁이사자처럼 프론트엔드스쿨 1기 과정 수료😚  
   
 
-- ⚡ 정보통신산업진흥원&포항테크노파크 AI 기본과정 160H 이수  
+- ⚡ 정보통신산업진흥원&포항테크노파크 AI 기본과정 이수  
   
 
 - ⛪ 2021 교내 캡스톤디자인 경진대회 입상  
@@ -71,14 +71,14 @@
 
 ## Connect with me  
 <div align="center">
+<a href="https://github.com/BigHuni" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 <a href="https://instagram.com/big_huni" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/big_huni" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/BigHuni" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
