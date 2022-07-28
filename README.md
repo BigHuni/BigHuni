@@ -6,13 +6,15 @@
   
 - 🌱 멋쟁이사자처럼 프론트엔드스쿨 1기 과정 수료  
 
-- ⚡ 정보통신산업진흥원&포항테크노파크 AI 기본과정 수료
+- 🌱 패스트캠퍼스 Java & SpringBoot 웹 프로그래밍 5기 과정 수료
+
+- 🌱  정보통신산업진흥원&포항테크노파크 AI 기본과정 수료
   
 - ⛪ 2021 LINC+ 사업단 교내 캡스톤디자인 경진대회 입상  
   
 - 📝 2021 IPACT 국내학술대회 우수논문상 수상  
   
-- 🍀 현재 Web FrontEnd 관련 공부 중에 있습니다.  
+- 🍀 현재 Web BackEnd 관련 공부 중에 있습니다.  
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
