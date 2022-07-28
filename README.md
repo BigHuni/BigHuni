@@ -1,5 +1,4 @@
-### <div align="center">'연은 순풍이 아니라 역풍에 가장 높이 난다 ✈'</div>  
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=TImes+New+Roman&size=35&color=8368C0&center=true&lines=Hi+there!+I'm+Daehun!)](https://git.io/typing-svg)
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 - ✨ 웹 개발자 Daehun 입니다. ✨  
