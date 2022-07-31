@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=TImes+New+Roman&size=35&color=45996c&center=true&lines=Hi+there!+I'm+Daehun!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=TImes+New+Roman&size=35&color=45996c&center=true&lines=Hi+there!+I'm+Daehun!)](https://github.com/BigHuni)
+
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 - ✨ 웹 개발자 Daehun 입니다. ✨  
