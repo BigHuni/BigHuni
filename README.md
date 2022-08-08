@@ -2,17 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-- ✨ 웹 개발자 Daehun 입니다. ✨  
+- ✨ 웹 개발자 Daehun 입니다.
   
-- 🌱 멋쟁이사자처럼 프론트엔드스쿨 1기 과정 수료  
-
-- 🌱 패스트캠퍼스 Java & SpringBoot 웹 프로그래밍 5기 과정 수료
-
-- 🌱 정보통신산업진흥원&포항테크노파크 AI 기본과정 수료
+- 🌱 멋쟁이사자처럼 프론트엔드스쿨 1기 과정 & ICT COG Academy AI 기본과정 수료
 
 - 📝 [알아서 잘 딱 깔끔하고 센스있게 정리하는 JavaScript 핵심 개념 공저](https://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?barcode=480D220337370)
-  
-- 📝 2021 IPACT 국내학술대회 우수논문상 수상  
   
 - 🍀 현재 Web BackEnd 관련 공부 중에 있습니다.  
 
